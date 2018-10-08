@@ -7,6 +7,7 @@
 > virtualenv 를 통해 가상환경을 생성하여 작업함
 
 * 가상환경 만들기
+
     ```bash
     $ virtualenv -p python3 ./env_dir
     ```
